@@ -26,5 +26,5 @@ Skills:  JS / HTML5 / CSS3 / TAILWINDCSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=psood708&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/psood708)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parth-sood/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_welp_moriarty)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' style={{color:'white'}} height='40'>](https://github.com/psood708)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' style={{color:'white'}} height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parth-sood/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' style={{color:'white'}} alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_welp_moriarty)
  
