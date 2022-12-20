@@ -1,3 +1,4 @@
+ ![](https://komarev.com/ghpvc/?username=psood708&color=blue&style=for-the-badge&label=Views)
  ### Hi there 👋, My name is Parth
 
 Skills:  JS / HTML5 / CSS3 / TAILWINDCSS 
