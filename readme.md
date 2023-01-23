@@ -1,6 +1,7 @@
- ![](https://komarev.com/ghpvc/?username=psood708&color=blue&style=for-the-badge&label=Views)
+ 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psood708&label=Profile%20views&color=0e75b6&style=flat" alt="psood708" /> </p>
+
  ### Hi there 👋, My name is Parth
 
 Skills:  JS / HTML5 / CSS3 / TAILWINDCSS 
