@@ -4,14 +4,14 @@
 
  ### Hi there 👋, My name is Parth
 
-Skills:  JS / HTML5 / CSS3 / TAILWINDCSS 
+Skills:  JS / HTML5 / CSS3 / TAILWINDCSS / PYTHON / R
 
-- 🔭 I’m currently working on Front-end Development and Personal Portfolio 
-- 🌱 I’m currently learning API's and React.js 
-- 👯 I’m looking to collaborate on JS projects and Web Development 
-- 🤔 I’m looking for help with roadmap to React.js 
+- 🔭 I’m currently working on Cloud Agnostic API Development and Data Science 
+- 🌱 I’m currently learning R and Docker 
+- 👯 I’m looking to collaborate on Web Development and Data Science Projects 
+- 🤔 I’m looking for help with roadmap to Mathematics for Data Science 
 - 📫 How to reach me: Refer to links below 
-- ⚡ Fun fact: Interested in Finance 
+- ⚡ Fun fact: Interested in Finance, Basketball Player 
 
 
 
