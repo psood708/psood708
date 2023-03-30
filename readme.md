@@ -4,7 +4,7 @@
 
  ### Hi there 👋, My name is Parth
 
-Skills:  JS / HTML5 / CSS3 / TAILWINDCSS / PYTHON / R
+Skills:  JS / HTML5 / CSS3 / PYTHON / R / SQL 
 
 - 🔭 I’m currently working on Cloud Agnostic API Development and Data Science 
 - 🌱 I’m currently learning R and Docker 
