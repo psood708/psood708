@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:6366f1&height=200&section=header&text=Parth%20Sood&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agent%20Memory%20%26%20Context%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:6366f1&height=200&section=header&text=Parth%20Sood&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Building+the+memory+layer+agents+need+%F0%9F%A4%96;RAG+%E2%86%92+Memory+%E2%86%92+Context+%E2%86%92+Agents;LangGraph+%7C+MCP+%7C+FastAPI;From+ISRO+satellites+to+production+AI+agents+%F0%9F%9B%B0%EF%B8%8F" alt="Typing SVG" />
