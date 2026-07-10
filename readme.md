@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:6366f1&height=200&section=header&text=Parth%20Sood&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:6366f1&height=200&section=header&text=Parth%20Sood&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agent%20Memory%20%26%20Context%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Building+production+AI+systems+%F0%9F%A4%96;RAG+%E2%86%92+Memory+%E2%86%92+Reasoning;LangGraph+%7C+FastAPI+%7C+Next.js;From+ISRO+satellites+to+LLM+agents+%F0%9F%9B%B0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Building+the+memory+layer+agents+need+%F0%9F%A4%96;RAG+%E2%86%92+Memory+%E2%86%92+Context+%E2%86%92+Agents;LangGraph+%7C+MCP+%7C+FastAPI;From+ISRO+satellites+to+production+AI+agents+%F0%9F%9B%B0%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,6 +13,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-_welp_moriarty-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/_welp_moriarty)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](http://parth-sood-portfolio-3gux.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-parthsood45@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsood45@gmail.com)
+[![Open to Remote](https://img.shields.io/badge/Open%20to-Remote%20Roles-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](mailto:parthsood45@gmail.com)
 
 </div>
 
@@ -22,10 +23,10 @@
 
 ```python
 parth = {
-    "role":        "Data Scientist & AI Engineer @ Aspect Ratio",
-    "location":    "Pune, India 🇮🇳",
-    "focus":       ["Production RAG", "Agentic Architectures", "NLP Systems"],
-    "currently":   "Building MemoryWeave — 3-tier AI memory architecture",
+    "role":        "AI/ML Engineer — Agentic Systems & Memory Architectures",
+    "location":    "Pune, India 🇮🇳 (open to remote)",
+    "focus":       ["Agent Memory & Context Engineering", "Production RAG", "Eval Rigor"],
+    "currently":   "Shipping MemoryWeave as a production MCP server + benchmarking on LOCOMO",
     "background":  ["ML Research @ ISRO", "B.Tech CE @ PDEU (9.41 CGPA)"],
     "interests":   ["Quantitative Finance", "Algo Trading", "Low-level Systems"],
     "languages":   ["Python", "Rust", "C++", "TypeScript", "Go"],
@@ -51,7 +52,6 @@ parth = {
 │  ⚡ Working Mem  │  📼 Episodic Mem  │  🕸️  Semantic Mem     │
 │     Redis        │  ChromaDB+Qdrant  │  PostgreSQL + KG      │
 │  (in-session)    │  (vector search)  │  (entity relations)   │
-│  token-budgeted  │  two-phase retr.  │  conflict resolution  │
 └─────────────────┴───────────────────┴───────────────────────┘
          ↑                  ↑                    ↑
          └──────────────────┴────────────────────┘
@@ -60,6 +60,9 @@ parth = {
 ```
 
 **Stack:** LangGraph · FastAPI · Next.js · ChromaDB · PostgreSQL · Redis · Qdrant · Claude Sonnet · LangSmith
+
+📈 **Benchmarking:** running against LOCOMO (long-context memory benchmark) — results incoming.
+🔌 **In progress:** exposing MemoryWeave as a production MCP server.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -135,11 +138,12 @@ parth = {
 
 ## 🏗️ What I'm Building
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🧵 [MemoryWeave](https://github.com/psood708/memory-weave) | 3-tier cognitive AI memory architecture | LangGraph · Qdrant · PostgreSQL · KG |
-| 🦀 [HNSW Vector DB](https://github.com/psood708/HNSW_Vector_DB) | From-scratch HNSW index — 98% recall @ 1M vectors | Rust · Python |
-| 💹 ArbiterAI | Fintech escalation routing with fine-tuned FinBERT | FinBERT · FastAPI · MLflow |
+| Project | Description | Stack | Status |
+|--------|-------------|-------|--------|
+| 🧵 [MemoryWeave](https://github.com/psood708/memory-weave) | 3-tier cognitive AI memory architecture | LangGraph · Qdrant · PostgreSQL · KG | Benchmarking (LOCOMO) |
+| 🔌 MemoryWeave MCP Server | Exposing MemoryWeave as a production MCP server | MCP · Python · FastAPI | In progress |
+| 🦀 [HNSW Vector DB](https://github.com/psood708/HNSW_Vector_DB) | From-scratch HNSW index — 98% recall @ 1M vectors | Rust · Python | Complete |
+| 🧪 Agent Eval Harness | Golden-dataset regression testing for agent pipelines | LangSmith · Python | Planned |
 
 ---
 
